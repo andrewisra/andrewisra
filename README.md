@@ -31,3 +31,11 @@ Thanks for stopping by — feel free to explore and connect! 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewisra&theme=midnight-purple)
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=andrewisra&theme=react-dark)
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=andrewisra.andrewisra)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
