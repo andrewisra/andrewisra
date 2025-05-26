@@ -29,3 +29,5 @@ Thanks for stopping by — feel free to explore and connect! 🚀
 
   [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple)](https://github.com/andrewisra/github-readme-stats)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple)
+
