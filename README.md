@@ -32,5 +32,3 @@ Thanks for stopping by — feel free to explore and connect! 🚀
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewisra&theme=midnight-purple)
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=andrewisra&theme=react-dark)
