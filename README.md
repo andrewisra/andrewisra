@@ -41,7 +41,7 @@ I love running 10K on weekends!
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=andrewisra&color=midnightpurple&style=flat-square)
+![](https://komarev.com/ghpvc/?username=andrewisra&style=flat-square)
 
 
 ![snake gif](https://github.com/andrewisra/andrewisra/blob/output/github-contribution-grid-snake.svg)
