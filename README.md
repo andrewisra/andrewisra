@@ -25,9 +25,9 @@ I love running 10K on weekends!
 ---
 
 Thanks for stopping by — feel free to explore and connect! 🚀
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrewisra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-  [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple)](https://github.com/andrewisra/github-readme-stats)
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple)](https://github.com/andrewisra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple)
 
