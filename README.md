@@ -32,7 +32,7 @@ I love running 10K on weekends!
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple" height="165" style="margin-right: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple" height="165" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple" height="165" />
 </div>
 
