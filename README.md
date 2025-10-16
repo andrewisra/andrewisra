@@ -23,8 +23,8 @@ Here you'll find a collection of my projects, experiments, and code snippets tha
 I love running 10K on weekends!
 
 ---
+## 🏆 My Personal GitHub Statistics
 
-Thanks for stopping by — feel free to explore and connect! 🚀
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrewisra&theme=aura&rank=-C&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple)](https://github.com/andrewisra/github-readme-stats)
