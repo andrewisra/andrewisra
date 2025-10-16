@@ -25,17 +25,17 @@ I love running 10K on weekends!
 ---
 ## 🏆 My Personal GitHub Statistics
 
-<div align="center">
+<div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=andrewisra&theme=aura&rank=-C&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="trophy" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple" height="165" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple" height="165" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple" height="165" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewisra&theme=midnight-purple" />
 </div>
