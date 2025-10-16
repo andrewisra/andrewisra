@@ -39,9 +39,3 @@ I love running 10K on weekends!
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewisra&theme=midnight-purple" />
 </div>
-
-
-![](https://komarev.com/ghpvc/?username=andrewisra&style=flat-square)
-
-
-![snake gif](https://github.com/andrewisra/andrewisra/blob/output/github-contribution-grid-snake.svg)
