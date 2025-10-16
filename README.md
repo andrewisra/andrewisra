@@ -25,10 +25,17 @@ I love running 10K on weekends!
 ---
 ## 🏆 My Personal GitHub Statistics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrewisra&theme=aura&rank=-C&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=andrewisra&theme=aura&rank=-C&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="trophy" />
+  </a>
+</div>
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple)](https://github.com/andrewisra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewisra&show_icons=true&theme=midnight-purple" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple" height="165" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewisra&theme=midnight-purple)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewisra&theme=midnight-purple" />
+</div>
