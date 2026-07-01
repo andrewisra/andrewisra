@@ -40,4 +40,4 @@ I love running 10K on weekends!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewisra&theme=midnight-purple" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrewisra&theme=buefy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrewisra&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
