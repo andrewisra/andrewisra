@@ -17,7 +17,7 @@ Here you'll find a collection of my projects, experiments, and code snippets tha
 ## How to reach me
 - Email: andrew.israsaputra@gmail.com or 13523110@std.stei.itb.ac.id
 - LinkedIn: https://www.linkedin.com/in/andrew-isra-saputra-db-63ba42272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- Instagram: andrew.isra
+- Instagram: instagram.com/andrew.isra
 
 ## Fun fact
 I love running 10K on weekends!
