@@ -8,7 +8,7 @@ Here you'll find a collection of my projects, experiments, and code snippets tha
 ---
 
 ## What I’m currently learning
-- Criptoprahy for Cyber Security
+- Cryptoprahy for Cyber Security
 - Full stack web development
 
 ## I’m looking to collaborate on
