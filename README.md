@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%23ff0000&backgroundOpacity=0&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Hi%2C+I%E2%80%99m+Andrew+Isra+Saputra+DB%22%2C%22color%22%3A%22%235900ff%22%2C%22fontSize%22%3A26%2C%22letterSpacing%22%3A%220.06em%22%2C%22typingSpeed%22%3A0.2%2C%22fontWeight%22%3A%22560%22%7D%5D" alt="Typing SVG" /></a>
 </div>
 
