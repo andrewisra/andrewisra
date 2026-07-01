@@ -39,3 +39,7 @@ I love running 10K on weekends!
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewisra&theme=midnight-purple" />
 </div>
+
+<div>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wigaandini&theme=buefy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
