@@ -1,4 +1,4 @@
-# Hi there, I’m Andrew Isra Saputra DB
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Hi+there%2C+I%E2%80%99m+Andrew+Isra+Saputra+DB%22%2C%22letterSpacing%22%3A%220.06em%22%2C%22typingSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /></a>
 
 Welcome to my personal GitHub repository!  
 Here you'll find a collection of my projects, experiments, and code snippets that I’m working on or have completed.
