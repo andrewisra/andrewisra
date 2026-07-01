@@ -27,7 +27,7 @@ I love running 10K on weekends!
 
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=andrewisra&theme=aura](https://github-profile-trophy-orcin-eta.vercel.app/?username=andrewisra)" />
   </a>
 </div>
 
