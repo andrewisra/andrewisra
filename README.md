@@ -16,10 +16,21 @@ Here you'll find a collection of my projects, experiments, and code snippets tha
 - CTF Challenge
 - Any interesting challenge in software engineering
 
-## How to reach me
-- Email: andrew.israsaputra@gmail.com or 13523110@std.stei.itb.ac.id
-- LinkedIn: https://www.linkedin.com/in/andrew-isra-saputra-db-63ba42272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- Instagram: https://www.instagram.com/andrew.isra
+<h2 align="center">Connect With Me</h2>
+
+<div align="center">
+  <a href="mailto:andrew.israsaputra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-andrew.israsaputra%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/andrew.isra">
+    <img src="https://img.shields.io/badge/Instagram-andrew.isra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/andrew-isra-saputra-db-63ba42272/">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Isra%20Saputra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ## Fun fact
 I love running 10K on weekends!
