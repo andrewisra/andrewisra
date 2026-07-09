@@ -35,7 +35,7 @@ Here you'll find a collection of my projects, experiments, and code snippets tha
 </div>
 
 ## Fun fact
-I love running 15K on weekends!
+I love running 10K on weekends!
 
 ---
 ## My Personal GitHub Statistics
