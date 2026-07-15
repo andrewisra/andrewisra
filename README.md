@@ -41,9 +41,13 @@ I love running 15K on weekends!
 ## My Personal GitHub Statistics
 
 <div align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=andrewisra&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <div>
+    <img src="https://streak-stats.demolab.com/?user=andrewisra&theme=midnight-purple&hide_border=true" height="146" />
+    &nbsp;&nbsp;
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrewisra&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="146"/>
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.shion.dev/api?username=andrewisra&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="146"/>
+  </div>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=andrewisra&theme=midnight-purple&hide_border=false" height="170"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewisra&theme=high-contrast"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewisra&theme=high-contrast&hide_border=true" width="1009"/>
 </div>
